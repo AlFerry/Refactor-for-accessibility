@@ -17,5 +17,6 @@ I added comments describing the general function of parts of the code so it will
 
 Images of webpage:
 
-![Image of webpage header]
+![Image of webpage header](/ProjectHomepage.png)
+
 
